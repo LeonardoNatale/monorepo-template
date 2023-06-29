@@ -1,14 +1,11 @@
 # Turborepo + Nest.js + Next.js + Tailwind + Postgres + Prisma
 
-This is an official starter Turborepo.
+## Installation - missing steps
 
-## Using this example
-
-Run the following command:
-
-```sh
-npx create-turbo@latest -e with-tailwind
-```
+1. `pnpm install`
+2. `docker-compose up -d`
+3. `cd apps/api`
+4. `pnpx prisma migrate dev --name init`
 
 ## What's inside?
 
