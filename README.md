@@ -1,6 +1,6 @@
 # Turborepo + Nest.js + Next.js + Tailwind + Postgres + Prisma
 
-## Installation - missing steps
+## Installation - probably missing some steps
 
 1. `pnpm install`
 2. `docker-compose up -d`
